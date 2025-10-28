@@ -82,7 +82,7 @@ const Index = () => {
       <header className="border-b border-border bg-card/50 backdrop-blur-sm sticky top-0 z-50">
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
-            <h1 className="text-3xl font-bold glitch neon-text-red">CYBER_HUB</h1>
+            <h1 className="text-3xl font-bold glitch neon-text-red">BAGIRASHOP</h1>
             <nav className="flex gap-4">
               <Button
                 variant={activeSection === 'productivity' ? 'default' : 'ghost'}
